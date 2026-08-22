@@ -1,2 +1,7 @@
-# RDP-Kanda-c024029b
-Kanda RDP (GitHub Actions + Railway TCP bridge)
+# RDP Machine
+
+Thông tin kết nối (tự tạo bởi Kandagawa Bot):
+
+- **Name RDP (TCP Proxy)**: `reseau.proxy.rlwy.net:37117`
+- **User**: `Kandagawa`
+- **Pass**: `Kandagw@12345`
